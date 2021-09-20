@@ -20,5 +20,6 @@ Como complemento do projeto, alguns itens ainda serão adicionados:
   - [x] Criar o input propriamente dito (comentado em código por não estar em uso ainda);
   - [ ] Criar lógica de associação do link do filme com seu nome;
 - [x] Guardar filmes adicionados em uma Lista/Array;
+
 Opcional:
 - [ ] Criar tabela "invisível" para poder aprender a trabalhar com `<tr>` e `<td>` através do JavaScript
