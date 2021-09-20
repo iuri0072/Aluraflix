@@ -13,14 +13,14 @@ Link para o projeto no CodePen: https://codepen.io/iuri0072/pen/YzQeeeL
 
 O projeto tem por objetivo o desenvolvimento de um 'Aluraflix', onde o usuário pode criar um catálogo com seus filmes favoritos após inserir a URL para a sua capa, de modo que a tela será populada com as informações adicionadas.
 Como complemento do projeto, alguns itens ainda serão adicionados:
-- [ ]Criar um botão para remover filme da tela
-  - [x]Criar função `removerFilme()`
-  - [ ]Criar botão interativo
-- [ ]Criar input de Nome de Filme
-  - [x]Criar o input propriamente dito (comentado em código por não estar em uso ainda)
-  - [ ]Criar lógica de associação do link do filme com seu nome
-- [x]Guardar filmes adicionados em uma Lista/Array
+- [ ] Criar um botão para remover filme da tela
+  - [x] Criar função `removerFilme()`
+  - [ ] Criar botão interativo
+- [ ] Criar input de Nome de Filme
+  - [x] Criar o input propriamente dito (comentado em código por não estar em uso ainda)
+  - [ ] Criar lógica de associação do link do filme com seu nome
+- [x] Guardar filmes adicionados em uma Lista/Array
 Opcional:
-- [ ]Criar tabela "invisível" para poder aprender a trabalhar com `<tr>` e `<td>` através do JavaScript
+- [ ] Criar tabela "invisível" para poder aprender a trabalhar com `<tr>` e `<td>` através do JavaScript
 
 - [ ] Jupiter
