@@ -22,5 +22,3 @@ Como complemento do projeto, alguns itens ainda serão adicionados:
 - [x] Guardar filmes adicionados em uma Lista/Array
 Opcional:
 - [ ] Criar tabela "invisível" para poder aprender a trabalhar com `<tr>` e `<td>` através do JavaScript
-
-- [ ] Jupiter
